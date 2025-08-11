@@ -17,7 +17,7 @@ Người dùng có thể theo dõi trạng thái đơn hàng của mình.
 - Front-end: HTML, CSS, Bootstrap, jQuery
 - Cơ sở dữ liệu: MySQL
 - Mô hình kiến trúc: MVT (Model – View – Template)
-[Xem source code](https://github.com/DinhQuangTrong/banhang-django-mysql)  
+Xem source code: https://github.com/DinhQuangTrong/banhang-django-mysql 
 
 ---
 
@@ -26,7 +26,7 @@ Người dùng có thể theo dõi trạng thái đơn hàng của mình.
 Website thương mại điện tử được xây dựng bằng Django, hỗ trợ các chức năng cơ bản như:
 	- Đăng nhập, đăng ký tài khoản
 	- Thêm/xóa sản phẩm vào giỏ hàng
-[Xem source code](https://github.com/DinhQuangTrong/banhang-django)  
+Xem source code:  https://github.com/DinhQuangTrong/banhang-django 
 
 ---
 
@@ -38,7 +38,7 @@ Phần mềm hỗ trợ quản lý các hoạt động trong siêu thị như qu
 - Ngôn ngữ lập trình: C#
 - Cơ sở dữ liệu: SQL Server
 - Giao diện: Windows Forms (WinForms)
-[Xem source code](https://github.com/DinhQuangTrong/winform-quanly-sieuthi)  
+Xem source code:  https://github.com/DinhQuangTrong/winform-quanly-sieuthi 
 
 ## Liên hệ
 - Email: quangtrongg03@gmail.com
