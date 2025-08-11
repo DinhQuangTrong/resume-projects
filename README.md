@@ -1,4 +1,4 @@
-##Danh sách một số dự án tiêu biểu 
+##Danh sách một số dự án 
 ---
 
 ## 1. Web bán hàng bằng Django + MySQL
