@@ -1,7 +1,7 @@
 ## Danh sách một số dự án 
 ---
 
-## 1. Web bán hàng bằng Django + MySQL
+## Web bán hàng bằng Django + MySQL
 **Mô tả**:
 MiniShop là một website bán hàng trực tuyến cho phép người dùng đăng ký tài khoản, đăng nhập và quản lý thông tin cá nhân. Hệ thống hỗ trợ xem chi tiết sản phẩm, thêm sản phẩm vào danh sách yêu thích, giỏ hàng và thực hiện đặt hàng. 
 Người dùng có thể theo dõi trạng thái đơn hàng của mình. 
@@ -22,18 +22,8 @@ Xem source code: https://github.com/DinhQuangTrong/banghang-django-mysql
 
 ---
 
-## 2. Web bán hàng bằng Django + SQLite
-**Mô tả**: 
-Website thương mại điện tử được xây dựng bằng Django, hỗ trợ các chức năng cơ bản như:
-	- Đăng nhập, đăng ký tài khoản
-	- Thêm/xóa sản phẩm vào giỏ hàng
 
-Xem source code:  https://github.com/DinhQuangTrong/banhang-django 
-
----
-
-
-## 3. Phần mềm Quản lý siêu thị
+## Phần mềm Quản lý siêu thị
 **Mô tả**:
 Phần mềm hỗ trợ quản lý các hoạt động trong siêu thị như quản lý sản phẩm, khách hàng,nhà cung cấp, hóa đơn bán hàng, nhập hàng,báo cóa thống kê... Giao diện thân thiện, dễ sử dụng, phù hợp với nhân viên bán hàng và quản lý.
 **Công nghệ**:  
